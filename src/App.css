@@ -1,0 +1,23 @@
+/* App.css */
+.App {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  input {
+    margin-right: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-top: 10px;
+  }
+  
+  button {
+    margin-left: 10px;
+  }
+  
